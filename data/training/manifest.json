@@ -1,0 +1,9 @@
+{
+  "languages": [
+    "en",
+    "hi",
+    "mr"
+  ],
+  "parallel_dir": "data/training/parallel",
+  "notes": "See data/training/DATA_SOURCES.md for full catalog and licensing."
+}

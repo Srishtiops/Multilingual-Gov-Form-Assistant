@@ -1,0 +1,73 @@
+project:
+  name: Multilingual Government Form Assistant
+  languages:
+    - en
+    - hi
+    - mr
+
+paths:
+  data_root: data
+  models_root: models
+  cache_dir: models/huggingface
+
+models:
+  ocr:
+    engine: easyocr
+    languages: [en, hi, mr]
+    min_confidence: 0.2
+  translation:
+    # Use cached public NLLB-200 model by default (works offline, handles English, Hindi, Marathi)
+    id: facebook/nllb-200-distilled-600M
+    alt_indic: facebook/nllb-200-distilled-600M
+    id_1b: ai4bharat/indictrans2-indic-en-1B
+    alt_indic_1b: ai4bharat/indictrans2-en-indic-1B
+    fallback_public: facebook/nllb-200-distilled-600M
+    # Finetuned checkpoint on Indian government domain
+    finetuned_local: models/training/nllb_gov_domain
+    # Use cached HF weights to avoid network socket permissions issues [WinError 10013]
+    local_files_only: true
+  document_understanding:
+    id: microsoft/layoutlmv3-base
+  qa_explanation:
+    id: google/flan-t5-base
+    ollama:
+      model: qwen2.5:3b
+      base_url: http://localhost:11434
+      timeout_seconds: 180
+      context_chars: 12000
+
+datasets:
+  funsd: nielsr/funsd
+  xfund_hf: FrancophonIA/XFUND
+  xfund_github_release: https://github.com/doc-analysis/XFUND/releases/download/v1.0
+  tydi_qa: google-research-datasets/tydiqa
+  samanantar_sample: ai4bharat/samanantar
+
+field_labels:
+  - name
+  - date_of_birth
+  - address
+  - id_number
+  - phone
+  - email
+  - gender
+  - parent_name
+  - category
+  - signature
+
+gov_form_sources:
+  - name: uidai_aadhaar_form1
+    url: https://uidai.gov.in/images/Form_1_Eng.pdf
+    filename: aadhaar_form1_en.pdf
+  - name: passport_annexure_a
+    url: https://www.passportindia.gov.in/AppOnlineProject/pdf/AnnexureA.pdf
+    filename: passport_annexure_a.pdf
+  - name: parivahan_dl_form2
+    url: https://parivahan.gov.in/sites/default/files/DownloadForm/cmvr/FORM-2.pdf
+    filename: driving_licence_form2.pdf
+  - name: uidai_aadhaar_handbook_marathi
+    url: https://uidai.gov.in/images/AadhaarHandbook-Marathi.pdf
+    filename: aadhaar_handbook_mr.pdf
+  - name: uidai_aadhaar_handbook_hindi
+    url: https://uidai.gov.in/images/Resident_HandBook_Hindi.pdf
+    filename: aadhaar_handbook_hi.pdf

@@ -1,0 +1,9 @@
+{
+  "signature": "303820675d154089a67052325f63f12ecbd658ffb16f4847d5194f073e0a4a71",
+  "task": "indian",
+  "seed": 42,
+  "epochs": 15,
+  "batch_size": 128,
+  "device_used_for_neural_models": "cuda",
+  "checkpoint_format": "safetensors + JSON + NPZ; no pickle required"
+}

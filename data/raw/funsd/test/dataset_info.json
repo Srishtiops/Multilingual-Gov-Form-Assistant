@@ -1,0 +1,73 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "funsd",
+  "dataset_size": 17979192,
+  "description": "",
+  "download_size": 16632013,
+  "features": {
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "words": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "bboxes": {
+      "feature": {
+        "feature": {
+          "dtype": "int64",
+          "_type": "Value"
+        },
+        "_type": "List"
+      },
+      "_type": "List"
+    },
+    "ner_tags": {
+      "feature": {
+        "names": [
+          "O",
+          "B-HEADER",
+          "I-HEADER",
+          "B-QUESTION",
+          "I-QUESTION",
+          "B-ANSWER",
+          "I-ANSWER"
+        ],
+        "_type": "ClassLabel"
+      },
+      "_type": "List"
+    },
+    "image": {
+      "_type": "Image"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 34611205,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 13219260,
+      "num_examples": 149,
+      "dataset_name": "funsd"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 4759932,
+      "num_examples": 50,
+      "dataset_name": "funsd"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

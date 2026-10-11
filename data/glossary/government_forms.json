@@ -1,0 +1,603 @@
+{
+  "status": "reviewed_indian_government_forms",
+  "version": 1,
+  "review_note": "Suggested terms for consistency only. Have fluent Hindi and Marathi reviewers validate register and official usage before relying on them.",
+  "terms": [
+    {
+      "en": "account number",
+      "hi": "खाता संख्या",
+      "mr": "खाते क्रमांक"
+    },
+    {
+      "en": "annexure",
+      "hi": "अनुलग्नक",
+      "mr": "जोडपत्र"
+    },
+    {
+      "en": "right to information act",
+      "hi": "सूचना का अधिकार अधिनियम",
+      "mr": "माहितीचा अधिकार अधिनियम"
+    },
+    {
+      "en": "public information officer",
+      "hi": "जन सूचना अधिकारी",
+      "mr": "जन माहिती अधिकारी"
+    },
+    {
+      "en": "full name of applicant",
+      "hi": "आवेदक का पूरा नाम",
+      "mr": "अर्जदाराचे संपूर्ण नाव"
+    },
+    {
+      "en": "full name of applicant",
+      "hi": "आवेदक का पूरा नाम",
+      "mr": "अजंदाराचे संपूर्ण नाव"
+    },
+    {
+      "en": "acknowledgement",
+      "hi": "पावती",
+      "mr": "पोचपावती"
+    },
+    {
+      "en": "admit card",
+      "hi": "प्रवेश पत्र",
+      "mr": "प्रवेशपत्र"
+    },
+    {
+      "en": "affidavit",
+      "hi": "शपथ पत्र",
+      "mr": "प्रतिज्ञापत्र"
+    },
+    {
+      "en": "annual income",
+      "hi": "वार्षिक आय",
+      "mr": "वार्षिक उत्पन्न"
+    },
+    {
+      "en": "applicant",
+      "hi": "आवेदक",
+      "mr": "अर्जदार"
+    },
+    {
+      "en": "application fee",
+      "hi": "आवेदन शुल्क",
+      "mr": "अर्ज शुल्क"
+    },
+    {
+      "en": "application form",
+      "hi": "आवेदन पत्र",
+      "mr": "अर्ज फॉर्म"
+    },
+    {
+      "en": "application status",
+      "hi": "आवेदन की स्थिति",
+      "mr": "अर्जाची स्थिती"
+    },
+    {
+      "en": "attach",
+      "hi": "संलग्न करें",
+      "mr": "जोडा"
+    },
+    {
+      "en": "attach all required documents",
+      "hi": "सभी आवश्यक दस्तावेज संलग्न करें",
+      "mr": "सर्व आवश्यक कागदपत्रे जोडा"
+    },
+    {
+      "en": "bank passbook",
+      "hi": "बैंक पासबुक",
+      "mr": "बँक पासबुक"
+    },
+    {
+      "en": "birth certificate",
+      "hi": "जन्म प्रमाण पत्र",
+      "mr": "जन्म दाखला"
+    },
+    {
+      "en": "branch name",
+      "hi": "शाखा का नाम",
+      "mr": "शाखेचे नाव"
+    },
+    {
+      "en": "bring original documents for verification",
+      "hi": "सत्यापन हेतु मूल दस्तावेज साथ लाएं",
+      "mr": "पडताळणीसाठी मूळ कागदपत्रे सोबत आणा"
+    },
+    {
+      "en": "caste certificate",
+      "hi": "जाति प्रमाण पत्र",
+      "mr": "जातीचा दाखला"
+    },
+    {
+      "en": "caste validity certificate",
+      "hi": "जाति वैधता प्रमाण पत्र",
+      "mr": "जात पडताळणी प्रमाणपत्र"
+    },
+    {
+      "en": "challan number",
+      "hi": "चालान संख्या",
+      "mr": "चलन क्रमांक"
+    },
+    {
+      "en": "collector office",
+      "hi": "कलेक्ट्रेट कार्यालय",
+      "mr": "जिल्हाधिकारी कार्यालय"
+    },
+    {
+      "en": "correspondence address",
+      "hi": "पत्राचार का पता",
+      "mr": "पत्रव्यवहाराचा पत्ता"
+    },
+    {
+      "en": "date of birth",
+      "hi": "जन्म तिथि",
+      "mr": "जन्मतारीख"
+    },
+    {
+      "en": "date of issue",
+      "hi": "जारी करने की तिथि",
+      "mr": "जारी केल्याची तारीख"
+    },
+    {
+      "en": "death certificate",
+      "hi": "मृत्यु प्रमाण पत्र",
+      "mr": "मृत्यू दाखला"
+    },
+    {
+      "en": "declarant",
+      "hi": "घोषणा कर्ता",
+      "mr": "घोषणा करणारा"
+    },
+    {
+      "en": "declaration",
+      "hi": "घोषणा",
+      "mr": "घोषणा"
+    },
+    {
+      "en": "differently abled",
+      "hi": "दिव्यांग",
+      "mr": "दिव्यांग"
+    },
+    {
+      "en": "district",
+      "hi": "जिला",
+      "mr": "जिल्हा"
+    },
+    {
+      "en": "divorced",
+      "hi": "तलाकशुदा",
+      "mr": "घटस्फोटित"
+    },
+    {
+      "en": "do not staple",
+      "hi": "स्टेपल न करें",
+      "mr": "स्टेपल करू नका"
+    },
+    {
+      "en": "domicile certificate",
+      "hi": "मूल निवास प्रमाण पत्र",
+      "mr": "अधिवास प्रमाणपत्र"
+    },
+    {
+      "en": "driving licence",
+      "hi": "ड्राइविंग लाइसेंस",
+      "mr": "वाहन चालविण्याचा परवाना"
+    },
+    {
+      "en": "educational qualification",
+      "hi": "शैक्षणिक योग्यता",
+      "mr": "शैक्षणिक पात्रता"
+    },
+    {
+      "en": "electricity bill",
+      "hi": "बिजली का बिल",
+      "mr": "वीज बिल"
+    },
+    {
+      "en": "email address",
+      "hi": "ईमेल पता",
+      "mr": "ईमेल पत्ता"
+    },
+    {
+      "en": "enrollment",
+      "hi": "नामांकन",
+      "mr": "नोंदणी"
+    },
+    {
+      "en": "examination centre",
+      "hi": "परीक्षा केंद्र",
+      "mr": "परीक्षा केंद्र"
+    },
+    {
+      "en": "father's name",
+      "hi": "पिता का नाम",
+      "mr": "वडिलांचे नाव"
+    },
+    {
+      "en": "for official use",
+      "hi": "आधिकारिक उपयोग हेतु",
+      "mr": "अधिकृत वापरासाठी"
+    },
+    {
+      "en": "gazetted officer",
+      "hi": "राजपत्रित अधिकारी",
+      "mr": "राजपत्रित अधिकारी"
+    },
+    {
+      "en": "gender",
+      "hi": "लिंग",
+      "mr": "लिंग"
+    },
+    {
+      "en": "government employee",
+      "hi": "सरकारी कर्मचारी",
+      "mr": "शासकीय कर्मचारी"
+    },
+    {
+      "en": "gram panchayat",
+      "hi": "ग्राम पंचायत",
+      "mr": "ग्रामपंचायत"
+    },
+    {
+      "en": "grievance redressal",
+      "hi": "शिकायत निवारण",
+      "mr": "तक्रार निवारण"
+    },
+    {
+      "en": "guardian",
+      "hi": "अभिभावक",
+      "mr": "पालक"
+    },
+    {
+      "en": "hall ticket",
+      "hi": "हॉल टिकट",
+      "mr": "हॉल तिकीट"
+    },
+    {
+      "en": "ifsc code",
+      "hi": "आईएफएससी कोड",
+      "mr": "आयएफएससी कोड"
+    },
+    {
+      "en": "income certificate",
+      "hi": "आय प्रमाण पत्र",
+      "mr": "उत्पन्नाचा दाखला"
+    },
+    {
+      "en": "income tax",
+      "hi": "आयकर",
+      "mr": "आयकर"
+    },
+    {
+      "en": "incomplete applications will be rejected",
+      "hi": "अपूर्ण आवेदन निरस्त कर दिए जाएंगे",
+      "mr": "अपूर्ण अर्ज फेटाळले जातील"
+    },
+    {
+      "en": "instructions",
+      "hi": "निर्देश",
+      "mr": "सूचना"
+    },
+    {
+      "en": "issuing authority",
+      "hi": "जारीकर्ता प्राधिकारी",
+      "mr": "सक्षम प्राधिकारी"
+    },
+    {
+      "en": "mandatory field",
+      "hi": "अनिवार्य क्षेत्र",
+      "mr": "अनिवार्य माहिती"
+    },
+    {
+      "en": "marital status",
+      "hi": "वैवाहिक स्थिति",
+      "mr": "वैवाहिक स्थिती"
+    },
+    {
+      "en": "marriage certificate",
+      "hi": "विवाह प्रमाण पत्र",
+      "mr": "विवाह नोंदणी प्रमाणपत्र"
+    },
+    {
+      "en": "married",
+      "hi": "विवाहित",
+      "mr": "विवाहित"
+    },
+    {
+      "en": "minor applicant",
+      "hi": "नाबालिग आवेदक",
+      "mr": "अज्ञान अर्जदार"
+    },
+    {
+      "en": "mobile number",
+      "hi": "मोबाइल नंबर",
+      "mr": "मोबाइल क्रमांक"
+    },
+    {
+      "en": "mother's name",
+      "hi": "माता का नाम",
+      "mr": "आईचे नाव"
+    },
+    {
+      "en": "municipal corporation",
+      "hi": "नगर निगम",
+      "mr": "महानगरपालिका"
+    },
+    {
+      "en": "nationality",
+      "hi": "राष्ट्रीयता",
+      "mr": "राष्ट्रीयत्व"
+    },
+    {
+      "en": "non creamy layer",
+      "hi": "गैर क्रीमी लेयर प्रमाण पत्र",
+      "mr": "नॉन क्रिमिलेअर दाखला"
+    },
+    {
+      "en": "non refundable",
+      "hi": "अप्रतिदेय",
+      "mr": "परतावा न मिळणारे"
+    },
+    {
+      "en": "notarized",
+      "hi": "नोटरीकृत",
+      "mr": "नोटरीकृत"
+    },
+    {
+      "en": "occupation",
+      "hi": "व्यवसाय",
+      "mr": "व्यवसाय"
+    },
+    {
+      "en": "office use only",
+      "hi": "केवल कार्यालय हेतु",
+      "mr": "फक्त कार्यालयासाठी"
+    },
+    {
+      "en": "optional",
+      "hi": "वैकल्पिक",
+      "mr": "ऐच्छिक"
+    },
+    {
+      "en": "original documents",
+      "hi": "मूल दस्तावेज़",
+      "mr": "मूळ कागदपत्रे"
+    },
+    {
+      "en": "passport size photograph",
+      "hi": "पासपोर्ट आकार का फोटो",
+      "mr": "पासपोर्ट आकाराचे छायाचित्र"
+    },
+    {
+      "en": "pensioner",
+      "hi": "पेंशनभोगी",
+      "mr": "निवृत्तीवेतनधारक"
+    },
+    {
+      "en": "permanent account number",
+      "hi": "स्थायी लेखा संख्या",
+      "mr": "कायम खाते क्रमांक"
+    },
+    {
+      "en": "permanent address",
+      "hi": "स्थायी पता",
+      "mr": "कायमचा पत्ता"
+    },
+    {
+      "en": "photocopy",
+      "hi": "फोटोकॉपी",
+      "mr": "छायाप्रत"
+    },
+    {
+      "en": "photograph",
+      "hi": "फोटोग्राफ",
+      "mr": "छायाचित्र"
+    },
+    {
+      "en": "pin code",
+      "hi": "पिन कोड",
+      "mr": "पिन कोड"
+    },
+    {
+      "en": "place of birth",
+      "hi": "जन्म स्थान",
+      "mr": "जन्मस्थान"
+    },
+    {
+      "en": "police station",
+      "hi": "थाना",
+      "mr": "पोलीस ठाणे"
+    },
+    {
+      "en": "proof of address",
+      "hi": "पते का प्रमाण",
+      "mr": "पत्त्याचा पुरावा"
+    },
+    {
+      "en": "proof of identity",
+      "hi": "पहचान का प्रमाण",
+      "mr": "ओळखीचा पुरावा"
+    },
+    {
+      "en": "property tax receipt",
+      "hi": "संपत्ति कर रसीद",
+      "mr": "मालमत्ता कर पावती"
+    },
+    {
+      "en": "provisional certificate",
+      "hi": "औपबंधिक प्रमाण पत्र",
+      "mr": "तात्पुरते प्रमाणपत्र"
+    },
+    {
+      "en": "ration card",
+      "hi": "राशन कार्ड",
+      "mr": "शिधापत्रिका"
+    },
+    {
+      "en": "registration fee",
+      "hi": "पंजीकरण शुल्क",
+      "mr": "नोंदणी शुल्क"
+    },
+    {
+      "en": "rent agreement",
+      "hi": "किरायानामा",
+      "mr": "भाडे करार"
+    },
+    {
+      "en": "required documents",
+      "hi": "आवश्यक दस्तावेज़",
+      "mr": "आवश्यक कागदपत्रे"
+    },
+    {
+      "en": "resident",
+      "hi": "निवासी",
+      "mr": "रहिवासी"
+    },
+    {
+      "en": "revenue department",
+      "hi": "राजस्व विभाग",
+      "mr": "महसूल विभाग"
+    },
+    {
+      "en": "scrutiny of application",
+      "hi": "आवेदन की जांच",
+      "mr": "अर्जाची छाननी"
+    },
+    {
+      "en": "self attestation",
+      "hi": "स्वप्रमाणन",
+      "mr": "स्वसाक्षांकन"
+    },
+    {
+      "en": "self attested copy",
+      "hi": "स्वप्रमाणित प्रति",
+      "mr": "स्वसाक्षांकित प्रत"
+    },
+    {
+      "en": "self-attested",
+      "hi": "स्व-प्रमाणित",
+      "mr": "स्वसाक्षांकित"
+    },
+    {
+      "en": "signature",
+      "hi": "हस्ताक्षर",
+      "mr": "स्वाक्षरी"
+    },
+    {
+      "en": "signature of applicant",
+      "hi": "आवेदक के हस्ताक्षर",
+      "mr": "अर्जदाराची स्वाक्षरी"
+    },
+    {
+      "en": "source of income",
+      "hi": "आय का स्रोत",
+      "mr": "उत्पन्नाचा स्रोत"
+    },
+    {
+      "en": "spouse name",
+      "hi": "पति/पत्नी का नाम",
+      "mr": "पती/पत्नीचे नाव"
+    },
+    {
+      "en": "stamp duty",
+      "hi": "स्टाम्प शुल्क",
+      "mr": "मुद्रांक शुल्क"
+    },
+    {
+      "en": "state",
+      "hi": "राज्य",
+      "mr": "राज्य"
+    },
+    {
+      "en": "sub registrar office",
+      "hi": "उप पंजीयक कार्यालय",
+      "mr": "दुय्यम निबंधक कार्यालय"
+    },
+    {
+      "en": "submission deadline",
+      "hi": "जमा करने की अंतिम तिथि",
+      "mr": "सादर करण्याची अंतिम तारीख"
+    },
+    {
+      "en": "supporting documents",
+      "hi": "सहायक दस्तावेज़",
+      "mr": "पूरक कागदपत्रे"
+    },
+    {
+      "en": "taluka",
+      "hi": "तहसील",
+      "mr": "तालुका"
+    },
+    {
+      "en": "tehsildar office",
+      "hi": "तहसीलदार कार्यालय",
+      "mr": "तहसीलदार कार्यालय"
+    },
+    {
+      "en": "thumb impression",
+      "hi": "अंगूठे का निशान",
+      "mr": "अंगठ्याचा ठसा"
+    },
+    {
+      "en": "tick applicable box",
+      "hi": "लागू बॉक्स पर निशान लगाएँ",
+      "mr": "लागू चौकोनावर खूण करा"
+    },
+    {
+      "en": "transfer certificate",
+      "hi": "स्थानांतरण प्रमाण पत्र",
+      "mr": "शाळा सोडल्याचा दाखला"
+    },
+    {
+      "en": "undertaking",
+      "hi": "वचनबद्धता",
+      "mr": "हमीपत्र"
+    },
+    {
+      "en": "unmarried",
+      "hi": "अविवाहित",
+      "mr": "अविवाहित"
+    },
+    {
+      "en": "update request",
+      "hi": "अद्यतन अनुरोध",
+      "mr": "अद्यतन विनंती"
+    },
+    {
+      "en": "validity period",
+      "hi": "वैधता अवधि",
+      "mr": "वैधतेचा कालावधी"
+    },
+    {
+      "en": "verified and found correct",
+      "hi": "सत्यापित और सही पाया गया",
+      "mr": "तपासले व बरोबर आढळले"
+    },
+    {
+      "en": "village",
+      "hi": "गाँव",
+      "mr": "गाव"
+    },
+    {
+      "en": "voter id",
+      "hi": "मतदाता पहचान पत्र",
+      "mr": "मतदार ओळखपत्र"
+    },
+    {
+      "en": "water bill",
+      "hi": "पानी का बिल",
+      "mr": "पाणी बिल"
+    },
+    {
+      "en": "widow",
+      "hi": "विधवा",
+      "mr": "विधवा"
+    },
+    {
+      "en": "witness",
+      "hi": "साक्षी",
+      "mr": "साक्षीदार"
+    }
+  ],
+  "term_count": 114
+}

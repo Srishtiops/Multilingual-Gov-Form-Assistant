@@ -1,0 +1,169 @@
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "Please fill in CAPITAL LETTERS only using blue or black ballpoint pen.", "label": "instruction"}
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "Do not staple or pin the photograph to the application form.", "label": "instruction"}
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "Tick the appropriate box corresponding to the demographic update required.", "label": "instruction"}
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "Residents must visit an authorized Aadhaar Seva Kendra for biometric capture.", "label": "instruction"}
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "Proof of Identity (POI) document containing Name and Photo", "label": "required_document"}
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "Proof of Address (POA) document containing Name and Address", "label": "required_document"}
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "Date of Birth (DOB) document containing Name and DOB", "label": "required_document"}
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "Valid Indian Passport or PAN Card as proof of identity", "label": "required_document"}
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "Full Name of the Resident as per proof document", "label": "field"}
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "Date of Birth (DD/MM/YYYY)", "label": "field"}
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "Gender (Male / Female / Transgender)", "label": "field"}
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "Care of (Father / Husband / Mother / Guardian)", "label": "field"}
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "House No., Building, Apartment name", "label": "field"}
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "Street, Road, Lane, Area, Landmark", "label": "field"}
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "Village / Town / City, Post Office", "label": "field"}
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "District, State, PIN Code", "label": "field"}
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "Toll-free Helpdesk: 1947", "label": "contact_detail"}
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "Email: help@uidai.gov.in", "label": "contact_detail"}
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "Website: https://resident.uidai.gov.in", "label": "contact_detail"}
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "I hereby declare that the information provided above is true, correct and complete.", "label": "disclaimer"}
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "Any false statement or forged document may attract penal consequences under the Aadhaar Act.", "label": "disclaimer"}
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "Government of India - Unique Identification Authority of India", "label": "other"}
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "Aadhaar Enrolment / Correction / Update Form (Field Version 2.0)", "label": "other"}
+{"document_id": "uidai_aadhaar_form1_en", "source": "UIDAI Aadhaar Enrolment / Update Form 1 (English)", "text": "For Official Use Only - Verification Stamp and Signature", "label": "other"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "कृपया फॉर्म को स्पष्ट एवं बड़े अक्षरों में भरें।", "label": "instruction"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "फॉर्म में किसी भी प्रकार की कटिंग या ओवरराइटिंग न करें।", "label": "instruction"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "केवल वैध एवं मूल दस्तावेजों की छायाप्रतियां ही संलग्न करें।", "label": "instruction"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "बायोमेट्रिक प्रमाणीकरण के लिए आधार सेवा केंद्र पर स्वयं उपस्थित होना अनिवार्य है।", "label": "instruction"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "पहचान का प्रमाण (POI) मूल दस्तावेज", "label": "required_document"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "निवास का प्रमाण (POA) सरकारी दस्तावेज", "label": "required_document"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "जन्म तिथि प्रमाण पत्र (नगर निगम अथवा सक्षम प्राधिकारी द्वारा जारी)", "label": "required_document"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "राशन कार्ड अथवा बिजली का बिल (पते के सत्यापन हेतु)", "label": "required_document"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "आवेदक का पूरा नाम", "label": "field"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "जन्म तिथि (दिन/माह/वर्ष)", "label": "field"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "लिंग (पुरुष / महिला / अन्य)", "label": "field"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "पिता या पति का नाम", "label": "field"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "स्थायी निवास का पता", "label": "field"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "पिन कोड एवं जिला", "label": "field"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "मोबाइल नंबर एवं ईमेल आईडी", "label": "field"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "आधार नंबर / नामांकन संख्या", "label": "field"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "टोल फ्री हेल्पलाइन नंबर: 1947", "label": "contact_detail"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "ईमेल संपर्क: help@uidai.gov.in", "label": "contact_detail"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "क्षेत्रीय कार्यालय: तीसरी मंजिल, साउथ विंग, खान मार्केट, नई दिल्ली", "label": "contact_detail"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "मैं प्रमाणित करता/करती हूँ कि ऊपर दी गई सभी जानकारियाँ मेरी जानकारी में सत्य हैं।", "label": "disclaimer"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "झूठी जानकारी प्रस्तुत करने पर आधार अधिनियम के अंतर्गत कानूनी कार्रवाई की जा सकती है।", "label": "disclaimer"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "भारत सरकार - भारतीय विशिष्ट पहचान प्राधिकरण", "label": "other"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "निवासी आधार नामांकन एवं अद्यतन प्रपत्र", "label": "other"}
+{"document_id": "uidai_aadhaar_handbook_hi", "source": "UIDAI Aadhaar Resident Handbook & Form (Hindi)", "text": "केवल कार्यालयीन उपयोग हेतु", "label": "other"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "कृपया अर्ज स्पष्ट अक्षरांमध्ये आणि काळ्या किंवा निळ्या शाईने भरावा.", "label": "instruction"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "छायाचित्रावर कोणतीही खूण किंवा स्टेपल पिन लावू नये.", "label": "instruction"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "पडताळणीसाठी अर्जासोबत अधिकृत कागदपत्रांच्या स्वसाक्षांकित प्रती जोडाव्यात.", "label": "instruction"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "बायोमेट्रिक नोंदीसाठी अर्जदाराने आधार केंद्रावर प्रत्यक्ष उपस्थित राहणे आवश्यक आहे.", "label": "instruction"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "ओळखीचा पुरावा (छायाचित्र असलेले अधिकृत ओळखपत्र)", "label": "required_document"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "रहिवासी पुरावा (लाईट बिल, पाणी बिल किंवा शिधापत्रिका)", "label": "required_document"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "जन्माचा दाखला (सक्षम प्राधिकार्‍याने दिलेला जन्म प्रमाणपत्र)", "label": "required_document"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "बँक पासबुक किंवा मतदार ओळखपत्र", "label": "required_document"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "अर्जदाराचे संपूर्ण नाव", "label": "field"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "जन्मतारीख (दिनांक/महिना/वर्ष)", "label": "field"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "लिंग (पुरुष / स्त्री / इतर)", "label": "field"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "पालकांचे / पतीचे नाव", "label": "field"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "कायमचा निवासी पत्ता", "label": "field"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "गाव, तालुका, जिल्हा व पिन कोड", "label": "field"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "मोबाइल क्रमांक व ईमेल पत्ता", "label": "field"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "आधार नोंदणी क्रमांक", "label": "field"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "ग्राहक सेवा केंद्र टोल फ्री क्रमांक: 1947", "label": "contact_detail"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "ईमेल पत्ता: help@uidai.gov.in", "label": "contact_detail"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "विभागीय कार्यालय: नरिमन पॉईंट, मुंबई ४०००२१", "label": "contact_detail"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "मी याद्वारे घोषित करतो/करते की वरील सर्व माहिती माझ्या माहितीनुसार खरी व बिनचूक आहे.", "label": "disclaimer"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "खोटी माहिती दिल्यास आधार कायद्यानुसार फौजदारी कारवाई केली जाऊ शकते.", "label": "disclaimer"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "भारत सरकार - भारतीय विशिष्ट ओळख प्राधिकरण", "label": "other"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "आधार नोंदणी व दुरुस्ती अर्ज", "label": "other"}
+{"document_id": "uidai_aadhaar_handbook_mr", "source": "UIDAI Aadhaar Resident Handbook & Form (Marathi)", "text": "केवळ कार्यालयीन वापरासाठी", "label": "other"}
+{"document_id": "parivahan_dl_form2_en", "source": "Ministry of Road Transport Driving Licence Form 2 (English)", "text": "Submit the application along with self-attested medical certificate Form 1A.", "label": "instruction"}
+{"document_id": "parivahan_dl_form2_en", "source": "Ministry of Road Transport Driving Licence Form 2 (English)", "text": "Pay the prescribed fee online through the Parivahan Sarathi portal.", "label": "instruction"}
+{"document_id": "parivahan_dl_form2_en", "source": "Ministry of Road Transport Driving Licence Form 2 (English)", "text": "Book an appointment slot for the driving test at the relevant RTO.", "label": "instruction"}
+{"document_id": "parivahan_dl_form2_en", "source": "Ministry of Road Transport Driving Licence Form 2 (English)", "text": "Affix one passport size photograph and enclose two spare photographs.", "label": "instruction"}
+{"document_id": "parivahan_dl_form2_en", "source": "Ministry of Road Transport Driving Licence Form 2 (English)", "text": "Proof of Age (School Leaving Certificate or Birth Certificate)", "label": "required_document"}
+{"document_id": "parivahan_dl_form2_en", "source": "Ministry of Road Transport Driving Licence Form 2 (English)", "text": "Proof of Residence (Aadhaar Card, Passport, or Electricity Bill)", "label": "required_document"}
+{"document_id": "parivahan_dl_form2_en", "source": "Ministry of Road Transport Driving Licence Form 2 (English)", "text": "Medical Fitness Certificate Form 1A signed by a registered medical practitioner", "label": "required_document"}
+{"document_id": "parivahan_dl_form2_en", "source": "Ministry of Road Transport Driving Licence Form 2 (English)", "text": "Learner's Licence in original", "label": "required_document"}
+{"document_id": "parivahan_dl_form2_en", "source": "Ministry of Road Transport Driving Licence Form 2 (English)", "text": "Name of the Applicant in full", "label": "field"}
+{"document_id": "parivahan_dl_form2_en", "source": "Ministry of Road Transport Driving Licence Form 2 (English)", "text": "Father's / Husband's Name", "label": "field"}
+{"document_id": "parivahan_dl_form2_en", "source": "Ministry of Road Transport Driving Licence Form 2 (English)", "text": "Permanent Address with PIN Code", "label": "field"}
+{"document_id": "parivahan_dl_form2_en", "source": "Ministry of Road Transport Driving Licence Form 2 (English)", "text": "Present Address / Address for Communication", "label": "field"}
+{"document_id": "parivahan_dl_form2_en", "source": "Ministry of Road Transport Driving Licence Form 2 (English)", "text": "Blood Group and RH factor", "label": "field"}
+{"document_id": "parivahan_dl_form2_en", "source": "Ministry of Road Transport Driving Licence Form 2 (English)", "text": "Class of Vehicle applied for (MCWG / LMV / Transport)", "label": "field"}
+{"document_id": "parivahan_dl_form2_en", "source": "Ministry of Road Transport Driving Licence Form 2 (English)", "text": "Identification Marks (Mole or Scar)", "label": "field"}
+{"document_id": "parivahan_dl_form2_en", "source": "Ministry of Road Transport Driving Licence Form 2 (English)", "text": "Helpdesk Phone: 0120-2459169", "label": "contact_detail"}
+{"document_id": "parivahan_dl_form2_en", "source": "Ministry of Road Transport Driving Licence Form 2 (English)", "text": "Email: helpdesk-sarathi@gov.in", "label": "contact_detail"}
+{"document_id": "parivahan_dl_form2_en", "source": "Ministry of Road Transport Driving Licence Form 2 (English)", "text": "Portal: https://parivahan.gov.in", "label": "contact_detail"}
+{"document_id": "parivahan_dl_form2_en", "source": "Ministry of Road Transport Driving Licence Form 2 (English)", "text": "I declare that to the best of my knowledge and belief the particulars given above are true.", "label": "disclaimer"}
+{"document_id": "parivahan_dl_form2_en", "source": "Ministry of Road Transport Driving Licence Form 2 (English)", "text": "I am disqualified from holding or obtaining a driving licence for reasons stated.", "label": "disclaimer"}
+{"document_id": "parivahan_dl_form2_en", "source": "Ministry of Road Transport Driving Licence Form 2 (English)", "text": "Form 2 - Application for Grant of Learner's / Driving Licence", "label": "other"}
+{"document_id": "parivahan_dl_form2_en", "source": "Ministry of Road Transport Driving Licence Form 2 (English)", "text": "Rule 10 of the Central Motor Vehicles Rules, 1989", "label": "other"}
+{"document_id": "parivahan_dl_form2_en", "source": "Ministry of Road Transport Driving Licence Form 2 (English)", "text": "Office of the Regional Transport Officer", "label": "other"}
+{"document_id": "passport_annexure_a_en", "source": "Ministry of External Affairs Passport Annexure A (English)", "text": "This declaration is to be executed on a non-judicial stamp paper of minimum value.", "label": "instruction"}
+{"document_id": "passport_annexure_a_en", "source": "Ministry of External Affairs Passport Annexure A (English)", "text": "The declaration must be attested by a Judicial Magistrate or Notary Public.", "label": "instruction"}
+{"document_id": "passport_annexure_a_en", "source": "Ministry of External Affairs Passport Annexure A (English)", "text": "Applicant must produce original verification documents during physical interview.", "label": "instruction"}
+{"document_id": "passport_annexure_a_en", "source": "Ministry of External Affairs Passport Annexure A (English)", "text": "Standard Affidavit as per specimen Annexure A", "label": "required_document"}
+{"document_id": "passport_annexure_a_en", "source": "Ministry of External Affairs Passport Annexure A (English)", "text": "Proof of Date of Birth and Nationality", "label": "required_document"}
+{"document_id": "passport_annexure_a_en", "source": "Ministry of External Affairs Passport Annexure A (English)", "text": "Two recent colored photographs with white background", "label": "required_document"}
+{"document_id": "passport_annexure_a_en", "source": "Ministry of External Affairs Passport Annexure A (English)", "text": "Name of the Applicant", "label": "field"}
+{"document_id": "passport_annexure_a_en", "source": "Ministry of External Affairs Passport Annexure A (English)", "text": "Father's Name and Mother's Name", "label": "field"}
+{"document_id": "passport_annexure_a_en", "source": "Ministry of External Affairs Passport Annexure A (English)", "text": "Date of Birth", "label": "field"}
+{"document_id": "passport_annexure_a_en", "source": "Ministry of External Affairs Passport Annexure A (English)", "text": "Place of Birth", "label": "field"}
+{"document_id": "passport_annexure_a_en", "source": "Ministry of External Affairs Passport Annexure A (English)", "text": "Passport Office Location", "label": "field"}
+{"document_id": "passport_annexure_a_en", "source": "Ministry of External Affairs Passport Annexure A (English)", "text": "Passport Seva National Call Centre: 1800-258-1800", "label": "contact_detail"}
+{"document_id": "passport_annexure_a_en", "source": "Ministry of External Affairs Passport Annexure A (English)", "text": "Official Portal: https://www.passportindia.gov.in", "label": "contact_detail"}
+{"document_id": "passport_annexure_a_en", "source": "Ministry of External Affairs Passport Annexure A (English)", "text": "I solemnly affirm and declare that the statements made herein are true to my personal knowledge.", "label": "disclaimer"}
+{"document_id": "passport_annexure_a_en", "source": "Ministry of External Affairs Passport Annexure A (English)", "text": "I am aware that making false statements in a passport application is an offence under the Passports Act 1967.", "label": "disclaimer"}
+{"document_id": "passport_annexure_a_en", "source": "Ministry of External Affairs Passport Annexure A (English)", "text": "Government of India - Ministry of External Affairs", "label": "other"}
+{"document_id": "passport_annexure_a_en", "source": "Ministry of External Affairs Passport Annexure A (English)", "text": "Annexure 'A' - Specimen Affidavit for a Passport", "label": "other"}
+{"document_id": "income_tax_pan_49a_hi", "source": "Income Tax Department PAN Form 49A (Hindi)", "text": "फॉर्म भरते समय केवल काले बॉलपॉइंट पेन का ही उपयोग करें।", "label": "instruction"}
+{"document_id": "income_tax_pan_49a_hi", "source": "Income Tax Department PAN Form 49A (Hindi)", "text": "फॉर्म पर दो पासपोर्ट आकार के रंगीन फोटो निर्धारित स्थान पर चिपकाएँ।", "label": "instruction"}
+{"document_id": "income_tax_pan_49a_hi", "source": "Income Tax Department PAN Form 49A (Hindi)", "text": "हस्ताक्षर केवल बॉक्स के अंदर ही करें, फोटो के ऊपर हस्ताक्षर न करें।", "label": "instruction"}
+{"document_id": "income_tax_pan_49a_hi", "source": "Income Tax Department PAN Form 49A (Hindi)", "text": "पहचान का प्रमाण पत्र (आधार कार्ड या मतदाता पहचान पत्र)", "label": "required_document"}
+{"document_id": "income_tax_pan_49a_hi", "source": "Income Tax Department PAN Form 49A (Hindi)", "text": "पते का प्रमाण पत्र (बैंक खाता विवरण या बिजली बिल)", "label": "required_document"}
+{"document_id": "income_tax_pan_49a_hi", "source": "Income Tax Department PAN Form 49A (Hindi)", "text": "जन्म तिथि का प्रमाण पत्र (दसवीं की अंकतालिका या जन्म प्रमाण पत्र)", "label": "required_document"}
+{"document_id": "income_tax_pan_49a_hi", "source": "Income Tax Department PAN Form 49A (Hindi)", "text": "पूरा नाम - उपनाम, प्रथम नाम, मध्य नाम", "label": "field"}
+{"document_id": "income_tax_pan_49a_hi", "source": "Income Tax Department PAN Form 49A (Hindi)", "text": "पिता का पूरा नाम", "label": "field"}
+{"document_id": "income_tax_pan_49a_hi", "source": "Income Tax Department PAN Form 49A (Hindi)", "text": "जन्म की तिथि (दिन/माह/वर्ष)", "label": "field"}
+{"document_id": "income_tax_pan_49a_hi", "source": "Income Tax Department PAN Form 49A (Hindi)", "text": "आवासीय पता एवं पिन कोड", "label": "field"}
+{"document_id": "income_tax_pan_49a_hi", "source": "Income Tax Department PAN Form 49A (Hindi)", "text": "पत्राचार हेतु टेलीफोन नंबर एवं ईमेल", "label": "field"}
+{"document_id": "income_tax_pan_49a_hi", "source": "Income Tax Department PAN Form 49A (Hindi)", "text": "आधार कार्ड संख्या (12 अंक)", "label": "field"}
+{"document_id": "income_tax_pan_49a_hi", "source": "Income Tax Department PAN Form 49A (Hindi)", "text": "आयकर संपर्क केंद्र टोल फ्री: 1800-180-1961", "label": "contact_detail"}
+{"document_id": "income_tax_pan_49a_hi", "source": "Income Tax Department PAN Form 49A (Hindi)", "text": "ईमेल: ask@incometax.gov.in", "label": "contact_detail"}
+{"document_id": "income_tax_pan_49a_hi", "source": "Income Tax Department PAN Form 49A (Hindi)", "text": "मैं एतद्द्वारा घोषित करता/करती हूँ कि इस प्रपत्र में दी गई जानकारी पूर्ण एवं सत्य है।", "label": "disclaimer"}
+{"document_id": "income_tax_pan_49a_hi", "source": "Income Tax Department PAN Form 49A (Hindi)", "text": "धारा 272बी के तहत गलत पैन विवरण देने पर ₹10,000 का जुर्माना लगाया जा सकता है।", "label": "disclaimer"}
+{"document_id": "income_tax_pan_49a_hi", "source": "Income Tax Department PAN Form 49A (Hindi)", "text": "भारत सरकार - आयकर विभाग", "label": "other"}
+{"document_id": "income_tax_pan_49a_hi", "source": "Income Tax Department PAN Form 49A (Hindi)", "text": "प्रपत्र संख्या 49क - स्थायी लेखा संख्या आवंटन हेतु आवेदन", "label": "other"}
+{"document_id": "voter_registration_form6_mr", "source": "State Election Commission Maharashtra Voter Form 6 (Marathi)", "text": "नवीन मतदार नोंदणीसाठी वय १८ वर्षे पूर्ण असणे आवश्यक आहे.", "label": "instruction"}
+{"document_id": "voter_registration_form6_mr", "source": "State Election Commission Maharashtra Voter Form 6 (Marathi)", "text": "अर्जासोबत चालू वर्षाचा पासपोर्ट आकाराचा रंगीत फोटो जोडावा.", "label": "instruction"}
+{"document_id": "voter_registration_form6_mr", "source": "State Election Commission Maharashtra Voter Form 6 (Marathi)", "text": "सर्व कागदपत्रांच्या प्रती स्वच्छ व वाचनीय असाव्यात.", "label": "instruction"}
+{"document_id": "voter_registration_form6_mr", "source": "State Election Commission Maharashtra Voter Form 6 (Marathi)", "text": "वयाचा पुरावा (शाळा सोडल्याचा दाखला किंवा जन्म प्रमाणपत्र)", "label": "required_document"}
+{"document_id": "voter_registration_form6_mr", "source": "State Election Commission Maharashtra Voter Form 6 (Marathi)", "text": "रहिवासाचा पुरावा (लाईट बिल, रेशन कार्ड किंवा बँक पासबुक)", "label": "required_document"}
+{"document_id": "voter_registration_form6_mr", "source": "State Election Commission Maharashtra Voter Form 6 (Marathi)", "text": "अर्जदाराचे संपूर्ण नाव (पहिले नाव, वडिलांचे/पतीचे नाव, आडनाव)", "label": "field"}
+{"document_id": "voter_registration_form6_mr", "source": "State Election Commission Maharashtra Voter Form 6 (Marathi)", "text": "नातेवाईकाचे नाव व नाते", "label": "field"}
+{"document_id": "voter_registration_form6_mr", "source": "State Election Commission Maharashtra Voter Form 6 (Marathi)", "text": "जन्मतारीख आणि वय", "label": "field"}
+{"document_id": "voter_registration_form6_mr", "source": "State Election Commission Maharashtra Voter Form 6 (Marathi)", "text": "लिंग (पुरुष / स्त्री / तृतीयपंथी)", "label": "field"}
+{"document_id": "voter_registration_form6_mr", "source": "State Election Commission Maharashtra Voter Form 6 (Marathi)", "text": "सध्याचा राहण्याचा पूर्ण पत्ता", "label": "field"}
+{"document_id": "voter_registration_form6_mr", "source": "State Election Commission Maharashtra Voter Form 6 (Marathi)", "text": "विधानसभा मतदार संघाचे नाव व क्रमांक", "label": "field"}
+{"document_id": "voter_registration_form6_mr", "source": "State Election Commission Maharashtra Voter Form 6 (Marathi)", "text": "मतदार हेल्पलाईन क्रमांक: 1950", "label": "contact_detail"}
+{"document_id": "voter_registration_form6_mr", "source": "State Election Commission Maharashtra Voter Form 6 (Marathi)", "text": "संकेतस्थळ: https://voters.eci.gov.in", "label": "contact_detail"}
+{"document_id": "voter_registration_form6_mr", "source": "State Election Commission Maharashtra Voter Form 6 (Marathi)", "text": "मी याद्वारे घोषित करतो/करते की मी भारताचा नागरिक असून या पत्त्यावर सामान्यतः रहिवासी आहे.", "label": "disclaimer"}
+{"document_id": "voter_registration_form6_mr", "source": "State Election Commission Maharashtra Voter Form 6 (Marathi)", "text": "लोकप्रतिनिधित्व कायद्यानुसार खोटी माहिती देणे हा दंडनीय गुन्हा आहे.", "label": "disclaimer"}
+{"document_id": "voter_registration_form6_mr", "source": "State Election Commission Maharashtra Voter Form 6 (Marathi)", "text": "भारत निवडणूक आयोग - मुख्य निवडणूक अधिकारी महाराष्ट्र", "label": "other"}
+{"document_id": "voter_registration_form6_mr", "source": "State Election Commission Maharashtra Voter Form 6 (Marathi)", "text": "नमुना ६ - मतदार यादीत नाव समाविष्ट करण्यासाठी अर्ज", "label": "other"}
+{"document_id": "gate_examination_form_en", "source": "IIT GATE Application Form (English)", "text": "Candidates must carry original valid photo ID proof to the examination centre.", "label": "instruction"}
+{"document_id": "gate_examination_form_en", "source": "IIT GATE Application Form (English)", "text": "E-signature and thumb impression must be clearly uploaded without distortion.", "label": "instruction"}
+{"document_id": "gate_examination_form_en", "source": "IIT GATE Application Form (English)", "text": "Verify exam city preferences carefully before final submission.", "label": "instruction"}
+{"document_id": "gate_examination_form_en", "source": "IIT GATE Application Form (English)", "text": "Valid Photo ID (Passport / PAN Card / Voter ID / Aadhaar / College ID)", "label": "required_document"}
+{"document_id": "gate_examination_form_en", "source": "IIT GATE Application Form (English)", "text": "Degree Certificate or Certificate from Head of Department", "label": "required_document"}
+{"document_id": "gate_examination_form_en", "source": "IIT GATE Application Form (English)", "text": "Caste / PwD Certificate if claiming reservation benefits", "label": "required_document"}
+{"document_id": "gate_examination_form_en", "source": "IIT GATE Application Form (English)", "text": "Enrollment ID", "label": "field"}
+{"document_id": "gate_examination_form_en", "source": "IIT GATE Application Form (English)", "text": "Full Name of the Applicant", "label": "field"}
+{"document_id": "gate_examination_form_en", "source": "IIT GATE Application Form (English)", "text": "Date of Birth", "label": "field"}
+{"document_id": "gate_examination_form_en", "source": "IIT GATE Application Form (English)", "text": "Gender", "label": "field"}
+{"document_id": "gate_examination_form_en", "source": "IIT GATE Application Form (English)", "text": "Category (GEN / OBC-NCL / SC / ST / EWS)", "label": "field"}
+{"document_id": "gate_examination_form_en", "source": "IIT GATE Application Form (English)", "text": "Parent/Guardian's Name", "label": "field"}
+{"document_id": "gate_examination_form_en", "source": "IIT GATE Application Form (English)", "text": "Parent/Guardian's Mobile Number", "label": "field"}
+{"document_id": "gate_examination_form_en", "source": "IIT GATE Application Form (English)", "text": "Communication Address with PIN Code", "label": "field"}
+{"document_id": "gate_examination_form_en", "source": "IIT GATE Application Form (English)", "text": "Candidate Email ID", "label": "field"}
+{"document_id": "gate_examination_form_en", "source": "IIT GATE Application Form (English)", "text": "GATE Exam Paper Code", "label": "field"}
+{"document_id": "gate_examination_form_en", "source": "IIT GATE Application Form (English)", "text": "Zonal GATE Office Contact Phone: 022-25767068", "label": "contact_detail"}
+{"document_id": "gate_examination_form_en", "source": "IIT GATE Application Form (English)", "text": "Email: gateoffice@iitb.ac.in", "label": "contact_detail"}
+{"document_id": "gate_examination_form_en", "source": "IIT GATE Application Form (English)", "text": "Address: GATE Office, Powai, Mumbai 400076", "label": "contact_detail"}
+{"document_id": "gate_examination_form_en", "source": "IIT GATE Application Form (English)", "text": "I confirm that I fulfil the eligibility criteria to appear for the examination.", "label": "disclaimer"}
+{"document_id": "gate_examination_form_en", "source": "IIT GATE Application Form (English)", "text": "I understand that I may be liable for legal action for providing incorrect information.", "label": "disclaimer"}
+{"document_id": "gate_examination_form_en", "source": "IIT GATE Application Form (English)", "text": "Graduate Aptitude Test in Engineering - Application Confirmation", "label": "other"}

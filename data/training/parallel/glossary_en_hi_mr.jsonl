@@ -1,0 +1,684 @@
+{"src_lang": "en", "tgt_lang": "hi", "src": "account number", "tgt": "खाता संख्या", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "खाता संख्या", "tgt": "account number", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "account number", "tgt": "खाते क्रमांक", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "खाते क्रमांक", "tgt": "account number", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "खाता संख्या", "tgt": "खाते क्रमांक", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "खाते क्रमांक", "tgt": "खाता संख्या", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "acknowledgement", "tgt": "पावती", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "पावती", "tgt": "acknowledgement", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "acknowledgement", "tgt": "पोचपावती", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "पोचपावती", "tgt": "acknowledgement", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "पावती", "tgt": "पोचपावती", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "पोचपावती", "tgt": "पावती", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "admit card", "tgt": "प्रवेश पत्र", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "प्रवेश पत्र", "tgt": "admit card", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "admit card", "tgt": "प्रवेशपत्र", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "प्रवेशपत्र", "tgt": "admit card", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "प्रवेश पत्र", "tgt": "प्रवेशपत्र", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "प्रवेशपत्र", "tgt": "प्रवेश पत्र", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "affidavit", "tgt": "शपथ पत्र", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "शपथ पत्र", "tgt": "affidavit", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "affidavit", "tgt": "प्रतिज्ञापत्र", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "प्रतिज्ञापत्र", "tgt": "affidavit", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "शपथ पत्र", "tgt": "प्रतिज्ञापत्र", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "प्रतिज्ञापत्र", "tgt": "शपथ पत्र", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "annual income", "tgt": "वार्षिक आय", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "वार्षिक आय", "tgt": "annual income", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "annual income", "tgt": "वार्षिक उत्पन्न", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "वार्षिक उत्पन्न", "tgt": "annual income", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "वार्षिक आय", "tgt": "वार्षिक उत्पन्न", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "वार्षिक उत्पन्न", "tgt": "वार्षिक आय", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "applicant", "tgt": "आवेदक", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "आवेदक", "tgt": "applicant", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "applicant", "tgt": "अर्जदार", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "अर्जदार", "tgt": "applicant", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "आवेदक", "tgt": "अर्जदार", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "अर्जदार", "tgt": "आवेदक", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "application fee", "tgt": "आवेदन शुल्क", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "आवेदन शुल्क", "tgt": "application fee", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "application fee", "tgt": "अर्ज शुल्क", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "अर्ज शुल्क", "tgt": "application fee", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "आवेदन शुल्क", "tgt": "अर्ज शुल्क", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "अर्ज शुल्क", "tgt": "आवेदन शुल्क", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "application form", "tgt": "आवेदन पत्र", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "आवेदन पत्र", "tgt": "application form", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "application form", "tgt": "अर्ज फॉर्म", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "अर्ज फॉर्म", "tgt": "application form", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "आवेदन पत्र", "tgt": "अर्ज फॉर्म", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "अर्ज फॉर्म", "tgt": "आवेदन पत्र", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "application status", "tgt": "आवेदन की स्थिति", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "आवेदन की स्थिति", "tgt": "application status", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "application status", "tgt": "अर्जाची स्थिती", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "अर्जाची स्थिती", "tgt": "application status", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "आवेदन की स्थिति", "tgt": "अर्जाची स्थिती", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "अर्जाची स्थिती", "tgt": "आवेदन की स्थिति", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "attach", "tgt": "संलग्न करें", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "संलग्न करें", "tgt": "attach", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "attach", "tgt": "जोडा", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "जोडा", "tgt": "attach", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "संलग्न करें", "tgt": "जोडा", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "जोडा", "tgt": "संलग्न करें", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "attach all required documents", "tgt": "सभी आवश्यक दस्तावेज संलग्न करें", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "सभी आवश्यक दस्तावेज संलग्न करें", "tgt": "attach all required documents", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "attach all required documents", "tgt": "सर्व आवश्यक कागदपत्रे जोडा", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "सर्व आवश्यक कागदपत्रे जोडा", "tgt": "attach all required documents", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "सभी आवश्यक दस्तावेज संलग्न करें", "tgt": "सर्व आवश्यक कागदपत्रे जोडा", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "सर्व आवश्यक कागदपत्रे जोडा", "tgt": "सभी आवश्यक दस्तावेज संलग्न करें", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "bank passbook", "tgt": "बैंक पासबुक", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "बैंक पासबुक", "tgt": "bank passbook", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "bank passbook", "tgt": "बँक पासबुक", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "बँक पासबुक", "tgt": "bank passbook", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "बैंक पासबुक", "tgt": "बँक पासबुक", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "बँक पासबुक", "tgt": "बैंक पासबुक", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "birth certificate", "tgt": "जन्म प्रमाण पत्र", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "जन्म प्रमाण पत्र", "tgt": "birth certificate", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "birth certificate", "tgt": "जन्म दाखला", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "जन्म दाखला", "tgt": "birth certificate", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "जन्म प्रमाण पत्र", "tgt": "जन्म दाखला", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "जन्म दाखला", "tgt": "जन्म प्रमाण पत्र", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "branch name", "tgt": "शाखा का नाम", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "शाखा का नाम", "tgt": "branch name", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "branch name", "tgt": "शाखेचे नाव", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "शाखेचे नाव", "tgt": "branch name", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "शाखा का नाम", "tgt": "शाखेचे नाव", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "शाखेचे नाव", "tgt": "शाखा का नाम", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "bring original documents for verification", "tgt": "सत्यापन हेतु मूल दस्तावेज साथ लाएं", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "सत्यापन हेतु मूल दस्तावेज साथ लाएं", "tgt": "bring original documents for verification", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "bring original documents for verification", "tgt": "पडताळणीसाठी मूळ कागदपत्रे सोबत आणा", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "पडताळणीसाठी मूळ कागदपत्रे सोबत आणा", "tgt": "bring original documents for verification", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "सत्यापन हेतु मूल दस्तावेज साथ लाएं", "tgt": "पडताळणीसाठी मूळ कागदपत्रे सोबत आणा", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "पडताळणीसाठी मूळ कागदपत्रे सोबत आणा", "tgt": "सत्यापन हेतु मूल दस्तावेज साथ लाएं", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "caste certificate", "tgt": "जाति प्रमाण पत्र", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "जाति प्रमाण पत्र", "tgt": "caste certificate", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "caste certificate", "tgt": "जातीचा दाखला", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "जातीचा दाखला", "tgt": "caste certificate", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "जाति प्रमाण पत्र", "tgt": "जातीचा दाखला", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "जातीचा दाखला", "tgt": "जाति प्रमाण पत्र", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "caste validity certificate", "tgt": "जाति वैधता प्रमाण पत्र", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "जाति वैधता प्रमाण पत्र", "tgt": "caste validity certificate", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "caste validity certificate", "tgt": "जात पडताळणी प्रमाणपत्र", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "जात पडताळणी प्रमाणपत्र", "tgt": "caste validity certificate", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "जाति वैधता प्रमाण पत्र", "tgt": "जात पडताळणी प्रमाणपत्र", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "जात पडताळणी प्रमाणपत्र", "tgt": "जाति वैधता प्रमाण पत्र", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "challan number", "tgt": "चालान संख्या", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "चालान संख्या", "tgt": "challan number", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "challan number", "tgt": "चलन क्रमांक", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "चलन क्रमांक", "tgt": "challan number", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "चालान संख्या", "tgt": "चलन क्रमांक", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "चलन क्रमांक", "tgt": "चालान संख्या", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "collector office", "tgt": "कलेक्ट्रेट कार्यालय", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "कलेक्ट्रेट कार्यालय", "tgt": "collector office", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "collector office", "tgt": "जिल्हाधिकारी कार्यालय", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "जिल्हाधिकारी कार्यालय", "tgt": "collector office", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "कलेक्ट्रेट कार्यालय", "tgt": "जिल्हाधिकारी कार्यालय", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "जिल्हाधिकारी कार्यालय", "tgt": "कलेक्ट्रेट कार्यालय", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "correspondence address", "tgt": "पत्राचार का पता", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "पत्राचार का पता", "tgt": "correspondence address", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "correspondence address", "tgt": "पत्रव्यवहाराचा पत्ता", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "पत्रव्यवहाराचा पत्ता", "tgt": "correspondence address", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "पत्राचार का पता", "tgt": "पत्रव्यवहाराचा पत्ता", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "पत्रव्यवहाराचा पत्ता", "tgt": "पत्राचार का पता", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "date of birth", "tgt": "जन्म तिथि", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "जन्म तिथि", "tgt": "date of birth", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "date of birth", "tgt": "जन्मतारीख", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "जन्मतारीख", "tgt": "date of birth", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "जन्म तिथि", "tgt": "जन्मतारीख", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "जन्मतारीख", "tgt": "जन्म तिथि", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "date of issue", "tgt": "जारी करने की तिथि", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "जारी करने की तिथि", "tgt": "date of issue", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "date of issue", "tgt": "जारी केल्याची तारीख", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "जारी केल्याची तारीख", "tgt": "date of issue", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "जारी करने की तिथि", "tgt": "जारी केल्याची तारीख", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "जारी केल्याची तारीख", "tgt": "जारी करने की तिथि", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "death certificate", "tgt": "मृत्यु प्रमाण पत्र", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "मृत्यु प्रमाण पत्र", "tgt": "death certificate", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "death certificate", "tgt": "मृत्यू दाखला", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "मृत्यू दाखला", "tgt": "death certificate", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "मृत्यु प्रमाण पत्र", "tgt": "मृत्यू दाखला", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "मृत्यू दाखला", "tgt": "मृत्यु प्रमाण पत्र", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "declarant", "tgt": "घोषणा कर्ता", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "घोषणा कर्ता", "tgt": "declarant", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "declarant", "tgt": "घोषणा करणारा", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "घोषणा करणारा", "tgt": "declarant", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "घोषणा कर्ता", "tgt": "घोषणा करणारा", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "घोषणा करणारा", "tgt": "घोषणा कर्ता", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "declaration", "tgt": "घोषणा", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "घोषणा", "tgt": "declaration", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "declaration", "tgt": "घोषणा", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "घोषणा", "tgt": "declaration", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "घोषणा", "tgt": "घोषणा", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "घोषणा", "tgt": "घोषणा", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "differently abled", "tgt": "दिव्यांग", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "दिव्यांग", "tgt": "differently abled", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "differently abled", "tgt": "दिव्यांग", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "दिव्यांग", "tgt": "differently abled", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "दिव्यांग", "tgt": "दिव्यांग", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "दिव्यांग", "tgt": "दिव्यांग", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "district", "tgt": "जिला", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "जिला", "tgt": "district", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "district", "tgt": "जिल्हा", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "जिल्हा", "tgt": "district", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "जिला", "tgt": "जिल्हा", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "जिल्हा", "tgt": "जिला", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "divorced", "tgt": "तलाकशुदा", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "तलाकशुदा", "tgt": "divorced", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "divorced", "tgt": "घटस्फोटित", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "घटस्फोटित", "tgt": "divorced", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "तलाकशुदा", "tgt": "घटस्फोटित", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "घटस्फोटित", "tgt": "तलाकशुदा", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "do not staple", "tgt": "स्टेपल न करें", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "स्टेपल न करें", "tgt": "do not staple", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "do not staple", "tgt": "स्टेपल करू नका", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "स्टेपल करू नका", "tgt": "do not staple", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "स्टेपल न करें", "tgt": "स्टेपल करू नका", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "स्टेपल करू नका", "tgt": "स्टेपल न करें", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "domicile certificate", "tgt": "मूल निवास प्रमाण पत्र", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "मूल निवास प्रमाण पत्र", "tgt": "domicile certificate", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "domicile certificate", "tgt": "अधिवास प्रमाणपत्र", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "अधिवास प्रमाणपत्र", "tgt": "domicile certificate", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "मूल निवास प्रमाण पत्र", "tgt": "अधिवास प्रमाणपत्र", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "अधिवास प्रमाणपत्र", "tgt": "मूल निवास प्रमाण पत्र", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "driving licence", "tgt": "ड्राइविंग लाइसेंस", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "ड्राइविंग लाइसेंस", "tgt": "driving licence", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "driving licence", "tgt": "वाहन चालविण्याचा परवाना", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "वाहन चालविण्याचा परवाना", "tgt": "driving licence", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "ड्राइविंग लाइसेंस", "tgt": "वाहन चालविण्याचा परवाना", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "वाहन चालविण्याचा परवाना", "tgt": "ड्राइविंग लाइसेंस", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "educational qualification", "tgt": "शैक्षणिक योग्यता", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "शैक्षणिक योग्यता", "tgt": "educational qualification", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "educational qualification", "tgt": "शैक्षणिक पात्रता", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "शैक्षणिक पात्रता", "tgt": "educational qualification", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "शैक्षणिक योग्यता", "tgt": "शैक्षणिक पात्रता", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "शैक्षणिक पात्रता", "tgt": "शैक्षणिक योग्यता", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "electricity bill", "tgt": "बिजली का बिल", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "बिजली का बिल", "tgt": "electricity bill", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "electricity bill", "tgt": "वीज बिल", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "वीज बिल", "tgt": "electricity bill", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "बिजली का बिल", "tgt": "वीज बिल", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "वीज बिल", "tgt": "बिजली का बिल", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "email address", "tgt": "ईमेल पता", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "ईमेल पता", "tgt": "email address", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "email address", "tgt": "ईमेल पत्ता", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "ईमेल पत्ता", "tgt": "email address", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "ईमेल पता", "tgt": "ईमेल पत्ता", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "ईमेल पत्ता", "tgt": "ईमेल पता", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "enrollment", "tgt": "नामांकन", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "नामांकन", "tgt": "enrollment", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "enrollment", "tgt": "नोंदणी", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "नोंदणी", "tgt": "enrollment", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "नामांकन", "tgt": "नोंदणी", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "नोंदणी", "tgt": "नामांकन", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "examination centre", "tgt": "परीक्षा केंद्र", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "परीक्षा केंद्र", "tgt": "examination centre", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "examination centre", "tgt": "परीक्षा केंद्र", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "परीक्षा केंद्र", "tgt": "examination centre", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "परीक्षा केंद्र", "tgt": "परीक्षा केंद्र", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "परीक्षा केंद्र", "tgt": "परीक्षा केंद्र", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "father's name", "tgt": "पिता का नाम", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "पिता का नाम", "tgt": "father's name", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "father's name", "tgt": "वडिलांचे नाव", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "वडिलांचे नाव", "tgt": "father's name", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "पिता का नाम", "tgt": "वडिलांचे नाव", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "वडिलांचे नाव", "tgt": "पिता का नाम", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "for official use", "tgt": "आधिकारिक उपयोग हेतु", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "आधिकारिक उपयोग हेतु", "tgt": "for official use", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "for official use", "tgt": "अधिकृत वापरासाठी", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "अधिकृत वापरासाठी", "tgt": "for official use", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "आधिकारिक उपयोग हेतु", "tgt": "अधिकृत वापरासाठी", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "अधिकृत वापरासाठी", "tgt": "आधिकारिक उपयोग हेतु", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "gazetted officer", "tgt": "राजपत्रित अधिकारी", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "राजपत्रित अधिकारी", "tgt": "gazetted officer", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "gazetted officer", "tgt": "राजपत्रित अधिकारी", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "राजपत्रित अधिकारी", "tgt": "gazetted officer", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "राजपत्रित अधिकारी", "tgt": "राजपत्रित अधिकारी", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "राजपत्रित अधिकारी", "tgt": "राजपत्रित अधिकारी", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "gender", "tgt": "लिंग", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "लिंग", "tgt": "gender", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "gender", "tgt": "लिंग", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "लिंग", "tgt": "gender", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "लिंग", "tgt": "लिंग", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "लिंग", "tgt": "लिंग", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "government employee", "tgt": "सरकारी कर्मचारी", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "सरकारी कर्मचारी", "tgt": "government employee", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "government employee", "tgt": "शासकीय कर्मचारी", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "शासकीय कर्मचारी", "tgt": "government employee", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "सरकारी कर्मचारी", "tgt": "शासकीय कर्मचारी", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "शासकीय कर्मचारी", "tgt": "सरकारी कर्मचारी", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "gram panchayat", "tgt": "ग्राम पंचायत", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "ग्राम पंचायत", "tgt": "gram panchayat", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "gram panchayat", "tgt": "ग्रामपंचायत", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "ग्रामपंचायत", "tgt": "gram panchayat", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "ग्राम पंचायत", "tgt": "ग्रामपंचायत", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "ग्रामपंचायत", "tgt": "ग्राम पंचायत", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "grievance redressal", "tgt": "शिकायत निवारण", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "शिकायत निवारण", "tgt": "grievance redressal", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "grievance redressal", "tgt": "तक्रार निवारण", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "तक्रार निवारण", "tgt": "grievance redressal", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "शिकायत निवारण", "tgt": "तक्रार निवारण", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "तक्रार निवारण", "tgt": "शिकायत निवारण", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "guardian", "tgt": "अभिभावक", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "अभिभावक", "tgt": "guardian", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "guardian", "tgt": "पालक", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "पालक", "tgt": "guardian", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "अभिभावक", "tgt": "पालक", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "पालक", "tgt": "अभिभावक", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "hall ticket", "tgt": "हॉल टिकट", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "हॉल टिकट", "tgt": "hall ticket", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "hall ticket", "tgt": "हॉल तिकीट", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "हॉल तिकीट", "tgt": "hall ticket", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "हॉल टिकट", "tgt": "हॉल तिकीट", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "हॉल तिकीट", "tgt": "हॉल टिकट", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "ifsc code", "tgt": "आईएफएससी कोड", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "आईएफएससी कोड", "tgt": "ifsc code", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "ifsc code", "tgt": "आयएफएससी कोड", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "आयएफएससी कोड", "tgt": "ifsc code", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "आईएफएससी कोड", "tgt": "आयएफएससी कोड", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "आयएफएससी कोड", "tgt": "आईएफएससी कोड", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "income certificate", "tgt": "आय प्रमाण पत्र", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "आय प्रमाण पत्र", "tgt": "income certificate", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "income certificate", "tgt": "उत्पन्नाचा दाखला", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "उत्पन्नाचा दाखला", "tgt": "income certificate", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "आय प्रमाण पत्र", "tgt": "उत्पन्नाचा दाखला", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "उत्पन्नाचा दाखला", "tgt": "आय प्रमाण पत्र", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "income tax", "tgt": "आयकर", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "आयकर", "tgt": "income tax", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "income tax", "tgt": "आयकर", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "आयकर", "tgt": "income tax", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "आयकर", "tgt": "आयकर", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "आयकर", "tgt": "आयकर", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "incomplete applications will be rejected", "tgt": "अपूर्ण आवेदन निरस्त कर दिए जाएंगे", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "अपूर्ण आवेदन निरस्त कर दिए जाएंगे", "tgt": "incomplete applications will be rejected", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "incomplete applications will be rejected", "tgt": "अपूर्ण अर्ज फेटाळले जातील", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "अपूर्ण अर्ज फेटाळले जातील", "tgt": "incomplete applications will be rejected", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "अपूर्ण आवेदन निरस्त कर दिए जाएंगे", "tgt": "अपूर्ण अर्ज फेटाळले जातील", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "अपूर्ण अर्ज फेटाळले जातील", "tgt": "अपूर्ण आवेदन निरस्त कर दिए जाएंगे", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "instructions", "tgt": "निर्देश", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "निर्देश", "tgt": "instructions", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "instructions", "tgt": "सूचना", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "सूचना", "tgt": "instructions", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "निर्देश", "tgt": "सूचना", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "सूचना", "tgt": "निर्देश", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "issuing authority", "tgt": "जारीकर्ता प्राधिकारी", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "जारीकर्ता प्राधिकारी", "tgt": "issuing authority", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "issuing authority", "tgt": "सक्षम प्राधिकारी", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "सक्षम प्राधिकारी", "tgt": "issuing authority", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "जारीकर्ता प्राधिकारी", "tgt": "सक्षम प्राधिकारी", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "सक्षम प्राधिकारी", "tgt": "जारीकर्ता प्राधिकारी", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "mandatory field", "tgt": "अनिवार्य क्षेत्र", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "अनिवार्य क्षेत्र", "tgt": "mandatory field", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "mandatory field", "tgt": "अनिवार्य माहिती", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "अनिवार्य माहिती", "tgt": "mandatory field", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "अनिवार्य क्षेत्र", "tgt": "अनिवार्य माहिती", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "अनिवार्य माहिती", "tgt": "अनिवार्य क्षेत्र", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "marital status", "tgt": "वैवाहिक स्थिति", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "वैवाहिक स्थिति", "tgt": "marital status", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "marital status", "tgt": "वैवाहिक स्थिती", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "वैवाहिक स्थिती", "tgt": "marital status", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "वैवाहिक स्थिति", "tgt": "वैवाहिक स्थिती", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "वैवाहिक स्थिती", "tgt": "वैवाहिक स्थिति", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "marriage certificate", "tgt": "विवाह प्रमाण पत्र", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "विवाह प्रमाण पत्र", "tgt": "marriage certificate", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "marriage certificate", "tgt": "विवाह नोंदणी प्रमाणपत्र", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "विवाह नोंदणी प्रमाणपत्र", "tgt": "marriage certificate", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "विवाह प्रमाण पत्र", "tgt": "विवाह नोंदणी प्रमाणपत्र", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "विवाह नोंदणी प्रमाणपत्र", "tgt": "विवाह प्रमाण पत्र", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "married", "tgt": "विवाहित", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "विवाहित", "tgt": "married", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "married", "tgt": "विवाहित", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "विवाहित", "tgt": "married", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "विवाहित", "tgt": "विवाहित", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "विवाहित", "tgt": "विवाहित", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "minor applicant", "tgt": "नाबालिग आवेदक", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "नाबालिग आवेदक", "tgt": "minor applicant", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "minor applicant", "tgt": "अज्ञान अर्जदार", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "अज्ञान अर्जदार", "tgt": "minor applicant", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "नाबालिग आवेदक", "tgt": "अज्ञान अर्जदार", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "अज्ञान अर्जदार", "tgt": "नाबालिग आवेदक", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "mobile number", "tgt": "मोबाइल नंबर", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "मोबाइल नंबर", "tgt": "mobile number", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "mobile number", "tgt": "मोबाइल क्रमांक", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "मोबाइल क्रमांक", "tgt": "mobile number", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "मोबाइल नंबर", "tgt": "मोबाइल क्रमांक", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "मोबाइल क्रमांक", "tgt": "मोबाइल नंबर", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "mother's name", "tgt": "माता का नाम", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "माता का नाम", "tgt": "mother's name", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "mother's name", "tgt": "आईचे नाव", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "आईचे नाव", "tgt": "mother's name", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "माता का नाम", "tgt": "आईचे नाव", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "आईचे नाव", "tgt": "माता का नाम", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "municipal corporation", "tgt": "नगर निगम", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "नगर निगम", "tgt": "municipal corporation", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "municipal corporation", "tgt": "महानगरपालिका", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "महानगरपालिका", "tgt": "municipal corporation", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "नगर निगम", "tgt": "महानगरपालिका", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "महानगरपालिका", "tgt": "नगर निगम", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "nationality", "tgt": "राष्ट्रीयता", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "राष्ट्रीयता", "tgt": "nationality", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "nationality", "tgt": "राष्ट्रीयत्व", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "राष्ट्रीयत्व", "tgt": "nationality", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "राष्ट्रीयता", "tgt": "राष्ट्रीयत्व", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "राष्ट्रीयत्व", "tgt": "राष्ट्रीयता", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "non creamy layer", "tgt": "गैर क्रीमी लेयर प्रमाण पत्र", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "गैर क्रीमी लेयर प्रमाण पत्र", "tgt": "non creamy layer", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "non creamy layer", "tgt": "नॉन क्रिमिलेअर दाखला", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "नॉन क्रिमिलेअर दाखला", "tgt": "non creamy layer", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "गैर क्रीमी लेयर प्रमाण पत्र", "tgt": "नॉन क्रिमिलेअर दाखला", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "नॉन क्रिमिलेअर दाखला", "tgt": "गैर क्रीमी लेयर प्रमाण पत्र", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "non refundable", "tgt": "अप्रतिदेय", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "अप्रतिदेय", "tgt": "non refundable", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "non refundable", "tgt": "परतावा न मिळणारे", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "परतावा न मिळणारे", "tgt": "non refundable", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "अप्रतिदेय", "tgt": "परतावा न मिळणारे", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "परतावा न मिळणारे", "tgt": "अप्रतिदेय", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "notarized", "tgt": "नोटरीकृत", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "नोटरीकृत", "tgt": "notarized", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "notarized", "tgt": "नोटरीकृत", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "नोटरीकृत", "tgt": "notarized", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "नोटरीकृत", "tgt": "नोटरीकृत", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "नोटरीकृत", "tgt": "नोटरीकृत", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "occupation", "tgt": "व्यवसाय", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "व्यवसाय", "tgt": "occupation", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "occupation", "tgt": "व्यवसाय", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "व्यवसाय", "tgt": "occupation", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "व्यवसाय", "tgt": "व्यवसाय", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "व्यवसाय", "tgt": "व्यवसाय", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "office use only", "tgt": "केवल कार्यालय हेतु", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "केवल कार्यालय हेतु", "tgt": "office use only", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "office use only", "tgt": "फक्त कार्यालयासाठी", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "फक्त कार्यालयासाठी", "tgt": "office use only", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "केवल कार्यालय हेतु", "tgt": "फक्त कार्यालयासाठी", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "फक्त कार्यालयासाठी", "tgt": "केवल कार्यालय हेतु", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "optional", "tgt": "वैकल्पिक", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "वैकल्पिक", "tgt": "optional", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "optional", "tgt": "ऐच्छिक", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "ऐच्छिक", "tgt": "optional", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "वैकल्पिक", "tgt": "ऐच्छिक", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "ऐच्छिक", "tgt": "वैकल्पिक", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "original documents", "tgt": "मूल दस्तावेज़", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "मूल दस्तावेज़", "tgt": "original documents", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "original documents", "tgt": "मूळ कागदपत्रे", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "मूळ कागदपत्रे", "tgt": "original documents", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "मूल दस्तावेज़", "tgt": "मूळ कागदपत्रे", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "मूळ कागदपत्रे", "tgt": "मूल दस्तावेज़", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "passport size photograph", "tgt": "पासपोर्ट आकार का फोटो", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "पासपोर्ट आकार का फोटो", "tgt": "passport size photograph", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "passport size photograph", "tgt": "पासपोर्ट आकाराचे छायाचित्र", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "पासपोर्ट आकाराचे छायाचित्र", "tgt": "passport size photograph", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "पासपोर्ट आकार का फोटो", "tgt": "पासपोर्ट आकाराचे छायाचित्र", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "पासपोर्ट आकाराचे छायाचित्र", "tgt": "पासपोर्ट आकार का फोटो", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "pensioner", "tgt": "पेंशनभोगी", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "पेंशनभोगी", "tgt": "pensioner", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "pensioner", "tgt": "निवृत्तीवेतनधारक", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "निवृत्तीवेतनधारक", "tgt": "pensioner", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "पेंशनभोगी", "tgt": "निवृत्तीवेतनधारक", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "निवृत्तीवेतनधारक", "tgt": "पेंशनभोगी", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "permanent account number", "tgt": "स्थायी लेखा संख्या", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "स्थायी लेखा संख्या", "tgt": "permanent account number", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "permanent account number", "tgt": "कायम खाते क्रमांक", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "कायम खाते क्रमांक", "tgt": "permanent account number", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "स्थायी लेखा संख्या", "tgt": "कायम खाते क्रमांक", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "कायम खाते क्रमांक", "tgt": "स्थायी लेखा संख्या", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "permanent address", "tgt": "स्थायी पता", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "स्थायी पता", "tgt": "permanent address", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "permanent address", "tgt": "कायमचा पत्ता", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "कायमचा पत्ता", "tgt": "permanent address", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "स्थायी पता", "tgt": "कायमचा पत्ता", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "कायमचा पत्ता", "tgt": "स्थायी पता", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "photocopy", "tgt": "फोटोकॉपी", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "फोटोकॉपी", "tgt": "photocopy", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "photocopy", "tgt": "छायाप्रत", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "छायाप्रत", "tgt": "photocopy", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "फोटोकॉपी", "tgt": "छायाप्रत", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "छायाप्रत", "tgt": "फोटोकॉपी", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "photograph", "tgt": "फोटोग्राफ", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "फोटोग्राफ", "tgt": "photograph", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "photograph", "tgt": "छायाचित्र", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "छायाचित्र", "tgt": "photograph", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "फोटोग्राफ", "tgt": "छायाचित्र", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "छायाचित्र", "tgt": "फोटोग्राफ", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "pin code", "tgt": "पिन कोड", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "पिन कोड", "tgt": "pin code", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "pin code", "tgt": "पिन कोड", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "पिन कोड", "tgt": "pin code", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "पिन कोड", "tgt": "पिन कोड", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "पिन कोड", "tgt": "पिन कोड", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "place of birth", "tgt": "जन्म स्थान", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "जन्म स्थान", "tgt": "place of birth", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "place of birth", "tgt": "जन्मस्थान", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "जन्मस्थान", "tgt": "place of birth", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "जन्म स्थान", "tgt": "जन्मस्थान", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "जन्मस्थान", "tgt": "जन्म स्थान", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "police station", "tgt": "थाना", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "थाना", "tgt": "police station", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "police station", "tgt": "पोलीस ठाणे", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "पोलीस ठाणे", "tgt": "police station", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "थाना", "tgt": "पोलीस ठाणे", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "पोलीस ठाणे", "tgt": "थाना", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "proof of address", "tgt": "पते का प्रमाण", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "पते का प्रमाण", "tgt": "proof of address", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "proof of address", "tgt": "पत्त्याचा पुरावा", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "पत्त्याचा पुरावा", "tgt": "proof of address", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "पते का प्रमाण", "tgt": "पत्त्याचा पुरावा", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "पत्त्याचा पुरावा", "tgt": "पते का प्रमाण", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "proof of identity", "tgt": "पहचान का प्रमाण", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "पहचान का प्रमाण", "tgt": "proof of identity", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "proof of identity", "tgt": "ओळखीचा पुरावा", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "ओळखीचा पुरावा", "tgt": "proof of identity", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "पहचान का प्रमाण", "tgt": "ओळखीचा पुरावा", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "ओळखीचा पुरावा", "tgt": "पहचान का प्रमाण", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "property tax receipt", "tgt": "संपत्ति कर रसीद", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "संपत्ति कर रसीद", "tgt": "property tax receipt", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "property tax receipt", "tgt": "मालमत्ता कर पावती", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "मालमत्ता कर पावती", "tgt": "property tax receipt", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "संपत्ति कर रसीद", "tgt": "मालमत्ता कर पावती", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "मालमत्ता कर पावती", "tgt": "संपत्ति कर रसीद", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "provisional certificate", "tgt": "औपबंधिक प्रमाण पत्र", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "औपबंधिक प्रमाण पत्र", "tgt": "provisional certificate", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "provisional certificate", "tgt": "तात्पुरते प्रमाणपत्र", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "तात्पुरते प्रमाणपत्र", "tgt": "provisional certificate", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "औपबंधिक प्रमाण पत्र", "tgt": "तात्पुरते प्रमाणपत्र", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "तात्पुरते प्रमाणपत्र", "tgt": "औपबंधिक प्रमाण पत्र", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "ration card", "tgt": "राशन कार्ड", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "राशन कार्ड", "tgt": "ration card", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "ration card", "tgt": "शिधापत्रिका", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "शिधापत्रिका", "tgt": "ration card", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "राशन कार्ड", "tgt": "शिधापत्रिका", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "शिधापत्रिका", "tgt": "राशन कार्ड", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "registration fee", "tgt": "पंजीकरण शुल्क", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "पंजीकरण शुल्क", "tgt": "registration fee", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "registration fee", "tgt": "नोंदणी शुल्क", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "नोंदणी शुल्क", "tgt": "registration fee", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "पंजीकरण शुल्क", "tgt": "नोंदणी शुल्क", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "नोंदणी शुल्क", "tgt": "पंजीकरण शुल्क", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "rent agreement", "tgt": "किरायानामा", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "किरायानामा", "tgt": "rent agreement", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "rent agreement", "tgt": "भाडे करार", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "भाडे करार", "tgt": "rent agreement", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "किरायानामा", "tgt": "भाडे करार", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "भाडे करार", "tgt": "किरायानामा", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "required documents", "tgt": "आवश्यक दस्तावेज़", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "आवश्यक दस्तावेज़", "tgt": "required documents", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "required documents", "tgt": "आवश्यक कागदपत्रे", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "आवश्यक कागदपत्रे", "tgt": "required documents", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "आवश्यक दस्तावेज़", "tgt": "आवश्यक कागदपत्रे", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "आवश्यक कागदपत्रे", "tgt": "आवश्यक दस्तावेज़", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "resident", "tgt": "निवासी", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "निवासी", "tgt": "resident", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "resident", "tgt": "रहिवासी", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "रहिवासी", "tgt": "resident", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "निवासी", "tgt": "रहिवासी", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "रहिवासी", "tgt": "निवासी", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "revenue department", "tgt": "राजस्व विभाग", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "राजस्व विभाग", "tgt": "revenue department", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "revenue department", "tgt": "महसूल विभाग", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "महसूल विभाग", "tgt": "revenue department", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "राजस्व विभाग", "tgt": "महसूल विभाग", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "महसूल विभाग", "tgt": "राजस्व विभाग", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "scrutiny of application", "tgt": "आवेदन की जांच", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "आवेदन की जांच", "tgt": "scrutiny of application", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "scrutiny of application", "tgt": "अर्जाची छाननी", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "अर्जाची छाननी", "tgt": "scrutiny of application", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "आवेदन की जांच", "tgt": "अर्जाची छाननी", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "अर्जाची छाननी", "tgt": "आवेदन की जांच", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "self attestation", "tgt": "स्वप्रमाणन", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "स्वप्रमाणन", "tgt": "self attestation", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "self attestation", "tgt": "स्वसाक्षांकन", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "स्वसाक्षांकन", "tgt": "self attestation", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "स्वप्रमाणन", "tgt": "स्वसाक्षांकन", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "स्वसाक्षांकन", "tgt": "स्वप्रमाणन", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "self attested copy", "tgt": "स्वप्रमाणित प्रति", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "स्वप्रमाणित प्रति", "tgt": "self attested copy", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "self attested copy", "tgt": "स्वसाक्षांकित प्रत", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "स्वसाक्षांकित प्रत", "tgt": "self attested copy", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "स्वप्रमाणित प्रति", "tgt": "स्वसाक्षांकित प्रत", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "स्वसाक्षांकित प्रत", "tgt": "स्वप्रमाणित प्रति", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "self-attested", "tgt": "स्व-प्रमाणित", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "स्व-प्रमाणित", "tgt": "self-attested", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "self-attested", "tgt": "स्वसाक्षांकित", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "स्वसाक्षांकित", "tgt": "self-attested", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "स्व-प्रमाणित", "tgt": "स्वसाक्षांकित", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "स्वसाक्षांकित", "tgt": "स्व-प्रमाणित", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "signature", "tgt": "हस्ताक्षर", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "हस्ताक्षर", "tgt": "signature", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "signature", "tgt": "स्वाक्षरी", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "स्वाक्षरी", "tgt": "signature", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "हस्ताक्षर", "tgt": "स्वाक्षरी", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "स्वाक्षरी", "tgt": "हस्ताक्षर", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "signature of applicant", "tgt": "आवेदक के हस्ताक्षर", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "आवेदक के हस्ताक्षर", "tgt": "signature of applicant", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "signature of applicant", "tgt": "अर्जदाराची स्वाक्षरी", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "अर्जदाराची स्वाक्षरी", "tgt": "signature of applicant", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "आवेदक के हस्ताक्षर", "tgt": "अर्जदाराची स्वाक्षरी", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "अर्जदाराची स्वाक्षरी", "tgt": "आवेदक के हस्ताक्षर", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "source of income", "tgt": "आय का स्रोत", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "आय का स्रोत", "tgt": "source of income", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "source of income", "tgt": "उत्पन्नाचा स्रोत", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "उत्पन्नाचा स्रोत", "tgt": "source of income", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "आय का स्रोत", "tgt": "उत्पन्नाचा स्रोत", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "उत्पन्नाचा स्रोत", "tgt": "आय का स्रोत", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "spouse name", "tgt": "पति/पत्नी का नाम", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "पति/पत्नी का नाम", "tgt": "spouse name", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "spouse name", "tgt": "पती/पत्नीचे नाव", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "पती/पत्नीचे नाव", "tgt": "spouse name", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "पति/पत्नी का नाम", "tgt": "पती/पत्नीचे नाव", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "पती/पत्नीचे नाव", "tgt": "पति/पत्नी का नाम", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "stamp duty", "tgt": "स्टाम्प शुल्क", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "स्टाम्प शुल्क", "tgt": "stamp duty", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "stamp duty", "tgt": "मुद्रांक शुल्क", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "मुद्रांक शुल्क", "tgt": "stamp duty", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "स्टाम्प शुल्क", "tgt": "मुद्रांक शुल्क", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "मुद्रांक शुल्क", "tgt": "स्टाम्प शुल्क", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "state", "tgt": "राज्य", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "राज्य", "tgt": "state", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "state", "tgt": "राज्य", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "राज्य", "tgt": "state", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "राज्य", "tgt": "राज्य", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "राज्य", "tgt": "राज्य", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "sub registrar office", "tgt": "उप पंजीयक कार्यालय", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "उप पंजीयक कार्यालय", "tgt": "sub registrar office", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "sub registrar office", "tgt": "दुय्यम निबंधक कार्यालय", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "दुय्यम निबंधक कार्यालय", "tgt": "sub registrar office", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "उप पंजीयक कार्यालय", "tgt": "दुय्यम निबंधक कार्यालय", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "दुय्यम निबंधक कार्यालय", "tgt": "उप पंजीयक कार्यालय", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "submission deadline", "tgt": "जमा करने की अंतिम तिथि", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "जमा करने की अंतिम तिथि", "tgt": "submission deadline", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "submission deadline", "tgt": "सादर करण्याची अंतिम तारीख", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "सादर करण्याची अंतिम तारीख", "tgt": "submission deadline", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "जमा करने की अंतिम तिथि", "tgt": "सादर करण्याची अंतिम तारीख", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "सादर करण्याची अंतिम तारीख", "tgt": "जमा करने की अंतिम तिथि", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "supporting documents", "tgt": "सहायक दस्तावेज़", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "सहायक दस्तावेज़", "tgt": "supporting documents", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "supporting documents", "tgt": "पूरक कागदपत्रे", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "पूरक कागदपत्रे", "tgt": "supporting documents", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "सहायक दस्तावेज़", "tgt": "पूरक कागदपत्रे", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "पूरक कागदपत्रे", "tgt": "सहायक दस्तावेज़", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "taluka", "tgt": "तहसील", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "तहसील", "tgt": "taluka", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "taluka", "tgt": "तालुका", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "तालुका", "tgt": "taluka", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "तहसील", "tgt": "तालुका", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "तालुका", "tgt": "तहसील", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "tehsildar office", "tgt": "तहसीलदार कार्यालय", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "तहसीलदार कार्यालय", "tgt": "tehsildar office", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "tehsildar office", "tgt": "तहसीलदार कार्यालय", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "तहसीलदार कार्यालय", "tgt": "tehsildar office", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "तहसीलदार कार्यालय", "tgt": "तहसीलदार कार्यालय", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "तहसीलदार कार्यालय", "tgt": "तहसीलदार कार्यालय", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "thumb impression", "tgt": "अंगूठे का निशान", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "अंगूठे का निशान", "tgt": "thumb impression", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "thumb impression", "tgt": "अंगठ्याचा ठसा", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "अंगठ्याचा ठसा", "tgt": "thumb impression", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "अंगूठे का निशान", "tgt": "अंगठ्याचा ठसा", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "अंगठ्याचा ठसा", "tgt": "अंगूठे का निशान", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "tick applicable box", "tgt": "लागू बॉक्स पर निशान लगाएँ", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "लागू बॉक्स पर निशान लगाएँ", "tgt": "tick applicable box", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "tick applicable box", "tgt": "लागू चौकोनावर खूण करा", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "लागू चौकोनावर खूण करा", "tgt": "tick applicable box", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "लागू बॉक्स पर निशान लगाएँ", "tgt": "लागू चौकोनावर खूण करा", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "लागू चौकोनावर खूण करा", "tgt": "लागू बॉक्स पर निशान लगाएँ", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "transfer certificate", "tgt": "स्थानांतरण प्रमाण पत्र", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "स्थानांतरण प्रमाण पत्र", "tgt": "transfer certificate", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "transfer certificate", "tgt": "शाळा सोडल्याचा दाखला", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "शाळा सोडल्याचा दाखला", "tgt": "transfer certificate", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "स्थानांतरण प्रमाण पत्र", "tgt": "शाळा सोडल्याचा दाखला", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "शाळा सोडल्याचा दाखला", "tgt": "स्थानांतरण प्रमाण पत्र", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "undertaking", "tgt": "वचनबद्धता", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "वचनबद्धता", "tgt": "undertaking", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "undertaking", "tgt": "हमीपत्र", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "हमीपत्र", "tgt": "undertaking", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "वचनबद्धता", "tgt": "हमीपत्र", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "हमीपत्र", "tgt": "वचनबद्धता", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "unmarried", "tgt": "अविवाहित", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "अविवाहित", "tgt": "unmarried", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "unmarried", "tgt": "अविवाहित", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "अविवाहित", "tgt": "unmarried", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "अविवाहित", "tgt": "अविवाहित", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "अविवाहित", "tgt": "अविवाहित", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "update request", "tgt": "अद्यतन अनुरोध", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "अद्यतन अनुरोध", "tgt": "update request", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "update request", "tgt": "अद्यतन विनंती", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "अद्यतन विनंती", "tgt": "update request", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "अद्यतन अनुरोध", "tgt": "अद्यतन विनंती", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "अद्यतन विनंती", "tgt": "अद्यतन अनुरोध", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "validity period", "tgt": "वैधता अवधि", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "वैधता अवधि", "tgt": "validity period", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "validity period", "tgt": "वैधतेचा कालावधी", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "वैधतेचा कालावधी", "tgt": "validity period", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "वैधता अवधि", "tgt": "वैधतेचा कालावधी", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "वैधतेचा कालावधी", "tgt": "वैधता अवधि", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "verified and found correct", "tgt": "सत्यापित और सही पाया गया", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "सत्यापित और सही पाया गया", "tgt": "verified and found correct", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "verified and found correct", "tgt": "तपासले व बरोबर आढळले", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "तपासले व बरोबर आढळले", "tgt": "verified and found correct", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "सत्यापित और सही पाया गया", "tgt": "तपासले व बरोबर आढळले", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "तपासले व बरोबर आढळले", "tgt": "सत्यापित और सही पाया गया", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "village", "tgt": "गाँव", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "गाँव", "tgt": "village", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "village", "tgt": "गाव", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "गाव", "tgt": "village", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "गाँव", "tgt": "गाव", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "गाव", "tgt": "गाँव", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "voter id", "tgt": "मतदाता पहचान पत्र", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "मतदाता पहचान पत्र", "tgt": "voter id", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "voter id", "tgt": "मतदार ओळखपत्र", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "मतदार ओळखपत्र", "tgt": "voter id", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "मतदाता पहचान पत्र", "tgt": "मतदार ओळखपत्र", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "मतदार ओळखपत्र", "tgt": "मतदाता पहचान पत्र", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "water bill", "tgt": "पानी का बिल", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "पानी का बिल", "tgt": "water bill", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "water bill", "tgt": "पाणी बिल", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "पाणी बिल", "tgt": "water bill", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "पानी का बिल", "tgt": "पाणी बिल", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "पाणी बिल", "tgt": "पानी का बिल", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "widow", "tgt": "विधवा", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "विधवा", "tgt": "widow", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "widow", "tgt": "विधवा", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "विधवा", "tgt": "widow", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "विधवा", "tgt": "विधवा", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "विधवा", "tgt": "विधवा", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "hi", "src": "witness", "tgt": "साक्षी", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "en", "src": "साक्षी", "tgt": "witness", "source": "glossary"}
+{"src_lang": "en", "tgt_lang": "mr", "src": "witness", "tgt": "साक्षीदार", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "en", "src": "साक्षीदार", "tgt": "witness", "source": "glossary"}
+{"src_lang": "hi", "tgt_lang": "mr", "src": "साक्षी", "tgt": "साक्षीदार", "source": "glossary"}
+{"src_lang": "mr", "tgt_lang": "hi", "src": "साक्षीदार", "tgt": "साक्षी", "source": "glossary"}

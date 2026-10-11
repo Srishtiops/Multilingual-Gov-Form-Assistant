@@ -1,0 +1,3 @@
+This folder contains public official form PDFs configured in config.yaml.
+Add further PDFs from official sources such as voters.eci.gov.in when needed.
+Record the source URL and download date, and annotate only material permitted for reuse.

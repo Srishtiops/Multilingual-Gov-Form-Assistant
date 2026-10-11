@@ -1,0 +1,7 @@
+{
+  "base_model": "facebook/nllb-200-distilled-600M",
+  "train_pairs": 3325,
+  "eval_pairs": 175,
+  "max_steps": 80,
+  "device": "cuda"
+}

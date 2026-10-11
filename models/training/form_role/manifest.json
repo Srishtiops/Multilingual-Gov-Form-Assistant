@@ -1,0 +1,9 @@
+{
+  "signature": "c718b128d6a7d1b2d39e7e911c3b60300e89fee7d1f0fa129787324ef593f11b",
+  "task": "form-role",
+  "seed": 42,
+  "epochs": 15,
+  "batch_size": 128,
+  "device_used_for_neural_models": "cuda",
+  "checkpoint_format": "safetensors + JSON + NPZ; no pickle required"
+}
